@@ -16,8 +16,9 @@ The application seeks to provide analysis tools in the following areas:
 - Looking at batter fundamentals: soft,hard,med contact; BABIP, groundball, hr/flyball ratio, exit velocity of baseball
 - Advanced: performance of certain players against certain teams, players, etc.
 
-
-While the previous framework was built on an RShiny backbone, I would like to develop this as a webapplication using Python, which should be a faster model and will be easier to code and maintain. The plan is to host this through my Stanford website.
+Code base:
+While the previous framework was built on an RShiny backbone, I would like to develop this as a webapplication using Python, which should be a faster model and will be easier to code and maintain. The plan is to host this through my Stanford website. 
+- Looking into Django as a full-stack framework
 
 Data sources:
 MLB Gameday and Fangraphs provide lots of data on all players, including very specific data on each pitch that gets thrown.
